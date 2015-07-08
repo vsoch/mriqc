@@ -1,7 +1,6 @@
 numpy
-pylab
+sympy
 seaborn
 nipype
 nipy
 matplotlib
-pylab

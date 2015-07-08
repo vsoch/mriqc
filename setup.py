@@ -16,5 +16,4 @@ setup(
     license="LICENSE.txt",
     description="mri qc in python",
 
-    install_requires = ['numpy','pylab','seaborn','nipype','nipy','matplotlib','pylab']
 )
