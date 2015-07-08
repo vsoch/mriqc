@@ -1,3 +1,7 @@
+'''
+motion.py: part of mriqc package
+
+'''
 import numpy as np
 import pylab as plt
 import seaborn as sns

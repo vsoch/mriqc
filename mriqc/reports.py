@@ -1,3 +1,7 @@
+'''
+reports.py: part of mriqc package
+
+'''
 def create_report(subject_id, tsnr_file, realignment_parameters_file, mean_epi_file, mask_file, reg_file, fssubjects_dir, similarity_distribution, mean_FD_distribution, tsnr_distributions, output_file):
     import gc
     import pylab as plt

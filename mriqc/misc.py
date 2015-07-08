@@ -1,4 +1,8 @@
+'''
+misc.py: part of mriqc package
+Miscellaneous functions
 
+'''
 def plot_vline(cur_val, label, ax):
     ax.axvline(cur_val)
     ylim = ax.get_ylim()

@@ -1,3 +1,7 @@
+'''
+volumes.py: part of mriqc package
+
+'''
 import math
 import os
 import time

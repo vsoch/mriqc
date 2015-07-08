@@ -1,3 +1,7 @@
+'''
+correlation.py: part of mriqc package
+
+'''
 import nibabel as nb
 import numpy as np
 import seaborn as sns

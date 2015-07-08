@@ -1,0 +1,7 @@
+numpy
+pylab
+seaborn
+nipype
+nipy
+matplotlib
+pylab

@@ -1,3 +1,7 @@
+'''
+scripts.py: part of mriqc package
+
+'''
 #!/usr/bin/env python 
 import argparse, os
 import gc
